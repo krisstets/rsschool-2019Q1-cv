@@ -36,3 +36,7 @@ Education:
 * BSU, Faculty of Radiophysics and Computer Technologies
 * stepik.org: "Введение в программирование (C++)"
 * codeacademy: "Introduction to HTML", "Learn CSS"	
+
+English level: 
+----
+   B1(learning at school, tutor, speaking whith native-speakers)
