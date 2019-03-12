@@ -2,8 +2,235 @@ html{
     background-color: #c0ded9;
 }
 body{
-    
     width: 1024px;
+    min-height:100vh;
+    height:1060px;
     margin:0 auto ;
     background-color: #eaece5;
 }
+.tel-img{
+    width: 34px;
+    height: 34px;
+    position: relative;
+    top: 9px;
+    right: 13px;
+}
+.gmail-img{
+    width: 34px;
+    height: 26px;
+    position: relative;
+    top: 9px;
+    right: 13px;
+}
+.github-img{
+    width: 34px;
+    height: 34px;
+    position: relative;
+    top: 9px;
+    right: 13px;
+}
+.profile-photo{
+    width: 190px;
+    height: 190px;
+    display: block;
+    margin: 0 auto;
+    position: relative;
+    right: -64px;
+    top: -3px;
+    border-radius: 7px;
+}
+.name{
+    font-size: 61px;
+    text-align: justify;
+    position: relative;
+    top: 36px;
+    left: 37px;
+    letter-spacing: 2px;
+    height: 20px;
+    font-family: 'Hind Guntur', sans-serif;
+    color: #3b3a30;
+}
+.summary{
+    font-size: 19px;
+    text-align: justify;
+    position: relative;
+    top: 81px;
+    line-height: 31px;
+    left: 37px;
+    width: 414px;
+    height: 10px;
+    letter-spacing: 2px;
+    font-family: 'Work Sans', sans-serif;
+    color: #3b3a30;
+}
+.contact-information{
+    position: relative;
+    left:  692px;
+    bottom: 194px;
+   
+  }
+  .contact-information li{
+  
+    padding-top: 9px;
+    font-size: 18px;
+    color: #3b3a30;
+    text-align: left;
+    font-family: 'Work Sans', sans-serif;
+  }
+  .contact-information a{
+    text-decoration:none; 
+    font-size: 18px;
+    color: #3b3a30;
+    text-align: left;
+   
+    font-family: 'Work Sans', sans-serif;
+  }
+.horizontal-line1{
+    border: none;
+    background-color: #b2c2bf;
+    color: #b2c2bf;
+    height: 2px;
+    width: 950px;
+    position: relative;
+    left: 36px;
+    bottom: 120px; 
+}
+.horizontal-line2{
+    border: none;
+    background-color: #b2c2bf;
+    color: #b2c2bf;
+    height: 2px;
+    width: 950px;
+    position: relative;
+    left: 36px;
+    bottom: 75px; 
+}
+.horizontal-line3{
+    border: none;
+    background-color: #b2c2bf;
+    color: #b2c2bf;
+    height: 2px;
+    width: 950px;
+    position: relative;
+    left: 36px;
+    bottom: 51px; 
+}
+.horizontal-line4{
+    border: none;
+    background-color: #b2c2bf;
+    color: #b2c2bf;
+    height: 2px;
+    width: 950px;
+    position: relative;
+    left: 36px;
+    bottom: -83px; 
+}
+.horizontal-line5{
+    border: none;
+    background-color: #b2c2bf;
+    color: #b2c2bf;
+    height: 2px;
+    width: 950px;
+    position: relative;
+    left: 36px;
+    bottom: -144px; 
+}
+.education-head{
+    font-size: 41px;
+    text-align: justify;
+    position: relative;
+    top: -30px;
+    left: 36px;
+    letter-spacing: 2px;
+    height: 20px;
+    font-family: 'Hind Guntur', sans-serif;
+    color: #3b3a30;
+}
+.education-list li{
+    padding-top: 21px;
+    font-size: 19px;
+    color: #3b3a30;
+    text-align: left;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.education-list{
+    position: relative;
+    left: 310px;
+    bottom: 119px;
+}
+.skills-head{
+    font-size: 41px;
+    text-align: justify;
+    position: relative;
+    top: 26px;
+    left: 37px;
+    letter-spacing: 2px;
+    height: 20px;
+    font-family: 'Hind Guntur', sans-serif;
+    color: #3b3a30;
+}
+.skills-list li{
+    padding-top: 21px;
+    font-size: 19px;
+    color: #3b3a30;
+    text-align: left;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.skills-list{
+    position: relative;
+    left: 310px;
+    bottom: 85px;
+}
+.english-head{
+    font-size: 41px;
+    text-align: justify;
+    position: relative;
+    top: 31px;
+    left:37px;
+    letter-spacing: 2px;
+    height: 20px;
+    font-family: 'Hind Guntur', sans-serif;
+    color: #3b3a30;  
+}
+.b1-head{
+    font-size: 41px;
+    position: relative;
+    left: 615px;
+    bottom: 16px;
+    letter-spacing: 2px;
+    height: 20px;
+    font-family: 'Hind Guntur', sans-serif;
+    color: #3b3a30;  
+}
+.english-practice{
+    font-size: 19px;
+    color: #3b3a30;
+    text-align: left;
+    font-family: 'Work Sans', sans-serif;
+    position: relative;
+    left: 350px;
+    bottom: -15px;
+}
+.code-head{
+    font-size: 41px;
+    text-align: justify;
+    position: relative;
+    top: 116px;
+    left: 37px;
+    letter-spacing: 2px;
+    height: 20px;
+    font-family: 'Hind Guntur', sans-serif;
+    color: #3b3a30;     
+}
+.code-example{
+    font-size: 19px;
+    color: #3b3a30;
+    text-align: left;
+    font-family: 'Work Sans', sans-serif;
+    position: relative;
+    left: 598px;
+    bottom: -94px;
+}
+
